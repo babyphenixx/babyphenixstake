@@ -1,0 +1,14 @@
+{
+  "CONTRACT_ADDRESS": "0xe3728634Af9A6488fA0F93ada90d39Eb803d6d47",
+  "SCAN_LINK": "https://cronoscan.com/token/0xe3728634Af9A6488fA0F93ada90d39Eb803d6d47",
+  "NETWORK": {
+    "NAME": "Cronos",
+    "SYMBOL": "Cro",
+    "ID": 25
+  },
+  "TOKEN_NAME": "BABY",
+  "SYMBOL": "BABY",
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 1120000
+}
